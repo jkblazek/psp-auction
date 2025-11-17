@@ -1,0 +1,11 @@
+{
+    "network_type": "clustered_subgroups",
+    "num_buyers": 20,
+    "num_sellers": 5,
+    "SDR": 1.0,
+    "mu": 1.0,
+    "theta": 0.5,
+    "sigma": 2.0,
+    "iterations": 1000,
+    "num_clusters": 2
+}
